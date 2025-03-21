@@ -98,20 +98,6 @@ O **TripWise** é uma API que utiliza a inteligência artificial do Google Gemin
 
     Clique em Send para enviar a requisição.
 
-## Estrutura do Projeto
-
-tripwise/
-├── app.rb               # Ponto de entrada da aplicação (API Sinatra)
-├── lib/
-│   ├── travel.rb        # Classe principal para gerar o plano de viagem
-│   ├── services/
-│   │   └── gemini_ai_service.rb  # Serviço para consumir a API do Gemini
-│   └── utils/
-│       └── prompt_util.rb        # Utilitário para gerar prompts para o Gemini
-├── README.md            # Este arquivo
-├── Gemfile              # Dependências do projeto
-├── .gitignore           # Arquivo de configuração para ignorar arquivos/pastas no momento de subir aplicação para remoto
-└── .env                 # Arquivo de configuração de variáveis de ambiente
 
 ## Contribuição
 
