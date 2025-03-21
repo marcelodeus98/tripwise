@@ -1,4 +1,4 @@
-
+﻿
 # TripWise - Planejador de Viagens Inteligente
 
 O **TripWise** é uma API que utiliza a inteligência artificial do Google Gemini (via `gemini_api_ruby`) para criar planos de viagem personalizados com base nas preferências do usuário, como datas, origem, destino, orçamento e acompanhantes.
